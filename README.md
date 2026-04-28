@@ -96,3 +96,5 @@ Instrumented tests (`DatabaseTest.kt`) cover:
 
 ## GitHub LiNK: https://github.com/kunwe/OPSC6311-PART-2-APP-BUDGETWISE-.git 
 
+## PROJECT FILE REPO GITHUB LINK: https://github.com/kunwe/BudgetWise.git 
+
