@@ -92,7 +92,7 @@ Instrumented tests (`DatabaseTest.kt`) cover:
 - From Android Studio: right‑click `DatabaseTest.kt` → `Run 'DatabaseTest'`
 - From terminal: `./gradlew connectedCheck`
 
-## Youtube video link: 
+## Youtube video link: https://www.youtube.com/watch?v=Z7D76gTyF9s
 
 ## GitHub LiNK: https://github.com/kunwe/OPSC6311-PART-2-APP-BUDGETWISE-.git 
 
